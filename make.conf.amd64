@@ -1,0 +1,1 @@
+MODULES_OVERRIDE=cryptodev mmcsd cpuctl aesni zfs xdr coretemp geom opensolaris cuse agp linuxkpi backlight lindebugfs acpi if_bridge bridgestp wlan_wep pflog pf netgraph nullfs vmm
