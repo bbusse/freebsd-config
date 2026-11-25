@@ -1,1 +1,1 @@
-MODULES_OVERRIDE=cryptodev mmcsd zfs xdr geom/geom_eli geom/geom_mirror opensolaris cuse linuxkpi backlight lindebugfs acpi if_bridge bridgestp wlan_wep pflog pf netgraph nullfs vmm if_epair fdescfs linux64 mqueuefs linux_common linprocfs linsysfs pty
+MODULES_OVERRIDE=cryptodev mmcsd zfs xdr geom/geom_eli geom/geom_mirror opensolaris cuse linuxkpi backlight lindebugfs acpi if_bridge bridgestp wlan_wep pflog pf netgraph nullfs vmm if_epair fdescfs linux64 mqueue linux_common linprocfs linsysfs pty
